@@ -1,0 +1,6 @@
+# EJEMPLO DE CONFIGURACIÓN - Renombra este archivo a config.py
+# y rellena con tus datos reales.
+
+TOKEN_TELEGRAM = "TU_TOKEN_AQUI"
+CHAT_ID = "TU_ID_DE USUARIO_AQUI"
+
