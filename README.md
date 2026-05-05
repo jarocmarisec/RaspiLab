@@ -1,9 +1,9 @@
 # RaspiLab: IoT & Automatización
+Laboratorio de experimentación IoT, Python y automatización en Raspberry Pi.
 <p align="center">
   <img width="100%" src="https://images.unsplash.com/photo-1553406830-f6e44ac97624?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Learn Scripting, Raspberry Pi">
 </p>
 
-Laboratorio de experimentación IoT, Python y automatización en Raspberry Pi.
 > "La ley de Pareto aplicada al aprendizaje de Sistemas y Python."
 
 ---
